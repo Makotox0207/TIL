@@ -1,0 +1,26 @@
+# 21.02.28
+#学習記録
+# 学習時間
+today 6h
+total (43h)
+[image:0BB9E597-2165-4417-8C52-AF9DC3B59403-2586-000021707810CA15/スクリーンショット 2021-03-01 2.21.20.png]
+<br>
+# Output
+[TIL/トランザクションとは at main · Makotox0207/TIL · GitHub](https://github.com/Makotox0207/TIL/blob/main/%E3%83%A1%E3%83%A2/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B6%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E3%81%AF)
+[TIL/バリデーションについて at main · Makotox0207/TIL · GitHub](https://github.com/Makotox0207/TIL/blob/main/%E3%83%A1%E3%83%A2/%E3%83%90%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+<br>
+# 学習したこと
+* rails
+	* `root to: ‘articles#index’`
+	* トランザクションとは
+	* バリデーションとは
+	* アソシエーションとは
+	* `execute ’SQL文’ `マイグレーションファイルでSQlを実行
+	* gitで過去の履歴まで戻る方法
+<br>
+# あやふやなこと/改善すべきこと
+* アソシエーションに関する理解が浅いため、もう少し理解を深めてコードを書く必要がある
+<br>
+# やること
+* アソシエーションについて調べて、文章にまとめてから、実際に手を動かして確かめてみる
+<br>
