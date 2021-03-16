@@ -21,7 +21,6 @@
 describe '〜機能', type: system do
   
   describe '登録' do
-    
     context 'Aの場合' do
       before do
       end
@@ -37,12 +36,14 @@ describe '〜機能', type: system do
       it 'xxxする' do
       end
     end
-    
-    describe '削除' do
-      .........
-      .........
-    end
-    
   end
+
+    
+  describe '削除' do
+    .........
+    .........
+  end
+    
+end
       
 ```
