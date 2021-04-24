@@ -105,7 +105,7 @@ form_withでのurlがミスしてるっぽい。
 *** ActionController::UrlGenerationError Exception: No route matches {:action=>"create", :controller=>"answers", :id=>"6"}, missing required keys: [:question_id]
 ```
 
-urlを引数に指定するよりもmodelの方がやりやすそうだから、明日試してみる。
+というか、データベースに保存するときはmodelで引数をしていしないといけないので、urlの時点で間違っている。
 
 
 
