@@ -55,7 +55,7 @@ json.description @memo.description
 
 ## 4. vue側で送信機能の設定
 
-1. `v-model`  値が入力と、それに該当するdataプロパティも自動的に更新される
+1. `v-model`  値が入力されると、それに該当するdataプロパティも自動的に更新される
 2. `@click=addMemo()`で関数を実行
 3. addMemo()の処理
 	1. dataプロパティであるtitleとdescriptionを、POSTのurlである`/api/memos`に対して送信

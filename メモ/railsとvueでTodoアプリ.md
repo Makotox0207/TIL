@@ -153,7 +153,7 @@ environment.loaders.prepend('stylus', stylus)
 	- `bin/webpack`
 	- `rails s`
 #### Todoリストを表示する部分
-
+ - `yarn axios`でaxiosを追加して、フロントエンドからHTTPリクエストをする。
 ```html
 /app/javascript/packs/components/index.vue
 <template>
